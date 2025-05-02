@@ -16,3 +16,4 @@ pyzmq
 chardet>=2.0.0
 numpydoc
 pyqt5
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
